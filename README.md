@@ -20,8 +20,7 @@ on categories & price, adding products to cart and ordering them. It is a respon
 - Highlights: Form validation, State management using Redux, browser storage, search using filtration, 
 mapping, reduce and use of other array methods, data fetching, error handling, code reusability etc.
 
-<a href="https://shopify-shopping-app.netlify.app/"
->Live link (Email:priyanshoochoudhary@gmail.com; password:123456789)</a>
+<a href="https://shopify-shopping-app.netlify.app/">Live link (Email:priyanshoochoudhary@gmail.com; password:123456789)</a>
 
 ### Portfolio Website:
 - It is my portfolio website which represents my capabilities of making interactive and animated websites 
