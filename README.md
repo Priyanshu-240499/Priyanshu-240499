@@ -14,8 +14,10 @@
 ## Github Summary
 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rishabh32700&show_icons=true&theme=gotham&count_private=true" alt="Rishabh Sharma | Stats"></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh32700&&theme=gotham" alt="Rishabh Sharma | Streaks"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-240499
+&show_icons=true&theme=gotham&count_private=true" alt="Rishabh Sharma | Stats"></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-240499
+&&theme=gotham" alt="Priyanshu | Streaks"></p>
 
 ## Tech Stack & Tools
 
