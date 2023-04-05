@@ -13,13 +13,13 @@
 
 ## Projects
 
-###Shopping App
+### Shopping App
 
--It is mini representation of a shopping app in react. It provides functionality of search, filtration based 
+- It is mini representation of a shopping app in react. It provides functionality of search, filtration based 
 on categories & price, adding products to cart and ordering them. It is a responsive app.
--Highlights: Form validation, State management using Redux, browser storage, search using filtration, 
+- Highlights: Form validation, State management using Redux, browser storage, search using filtration, 
 mapping, reduce and use of other array methods, data fetching, error handling, code reusability etc.
--<a href="https://shopify-shopping-app.netlify.app/"
+- <a href="https://shopify-shopping-app.netlify.app/"
 >Live link (Email:priyanshoochoudhary@gmail.com; password:123456789)</a>
 
 ## Tech Stack & Tools
