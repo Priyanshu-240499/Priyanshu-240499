@@ -20,13 +20,13 @@ on categories & price, adding products to cart and ordering them. It is a respon
 - Highlights: Form validation, State management using Redux, browser storage, search using filtration, 
 mapping, reduce and use of other array methods, data fetching, error handling, code reusability etc.
 
-<a href="https://shopify-shopping-app.netlify.app/">Live link (Email:priyanshoochoudhary@gmail.com; password:123456789)</a>
+<a href="https://shopify-shopping-app.netlify.app/">Live link ( Email:priyanshoochoudhary@gmail.com; password:123456789)</a>
 
 ### Portfolio Website:
 - It is my portfolio website which represents my capabilities of making interactive and animated websites 
 which allows increased user experience and interaction with app/website.
 - Highlights: Transitions, animations, responsive UI creation, media queries and in depth use of CSS.
-<br/>
+
 <a href="https://priyanshu-choudhary-portfolio.netlify.app/">Live link</a>
 
 ### Social media animal posts app:
@@ -34,7 +34,7 @@ which allows increased user experience and interaction with app/website.
 to particular tags, see comments, filter posts of a particular user.
 - Highlights: Dark mode/light mode, context-api, multiple fetching and data handling, code reusability, 
 responsiveness.
-<br/>
+
 <a href="https://socialmedia-posting-app.netlify.app/">Live link</a>
 
 ## Tech Stack & Tools
