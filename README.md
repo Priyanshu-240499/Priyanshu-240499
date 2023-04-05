@@ -19,7 +19,7 @@
 on categories & price, adding products to cart and ordering them. It is a responsive app.
 - Highlights: Form validation, State management using Redux, browser storage, search using filtration, 
 mapping, reduce and use of other array methods, data fetching, error handling, code reusability etc.
-<br/>
+
 <a href="https://shopify-shopping-app.netlify.app/"
 >Live link (Email:priyanshoochoudhary@gmail.com; password:123456789)</a>
 
