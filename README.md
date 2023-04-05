@@ -15,9 +15,9 @@
 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-240499
-&show_icons=true&theme=gotham&count_private=true" alt="Rishabh Sharma | Stats"></p>
+&show_icons=true&theme=gotham&count_private=true" alt="Priyanhu Choudhar"></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-240499
-&&theme=gotham" alt="Priyanshu | Streaks"></p>
+&&theme=gotham" alt="Priyanshu Choudhary"></p>
 
 ## Tech Stack & Tools
 
