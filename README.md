@@ -36,7 +36,7 @@ to particular tags, see comments, filter posts of a particular user.
 responsiveness.
 
 <a href="https://socialmedia-posting-app.netlify.app/">Live link</a>
-
+<br/>
 ## Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
