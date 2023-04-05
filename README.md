@@ -11,13 +11,16 @@
 <a href="mailto:priyanshoochoudhary@gmail.com"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>
 
-## Github Summary
+## Projects
 
+###Shopping App
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-240499
-&show_icons=true&theme=gotham&count_private=true" alt="Priyanhu Choudhar"></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-240499
-&&theme=gotham" alt="Priyanshu Choudhary"></p>
+-It is mini representation of a shopping app in react. It provides functionality of search, filtration based 
+on categories & price, adding products to cart and ordering them. It is a responsive app.
+-Highlights: Form validation, State management using Redux, browser storage, search using filtration, 
+mapping, reduce and use of other array methods, data fetching, error handling, code reusability etc.
+-<a href="https://shopify-shopping-app.netlify.app/"
+>Live link (Email:priyanshoochoudhary@gmail.com; password:123456789)</a>
 
 ## Tech Stack & Tools
 
